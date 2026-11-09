@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "جواهر الشرق | Jawaher Al-Sharq",
+  "short_name": "جواهر الشرق",
+  "description": "متجر جواهر الشرق الإلكتروني",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "./jawaher-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./jawaher-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
